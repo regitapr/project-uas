@@ -1,7 +1,4 @@
 # tokoku
-
-A new and simple e-commerce Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
